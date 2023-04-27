@@ -360,7 +360,7 @@ linewidth=4pt]{rBox}
 %                               création de Attention
 %------------------------------------------------------------------------------
 
-\RequirePackage[framemethod=default]{mdframed}
+%\RequirePackage[framemethod=default]{mdframed}
 % Attention box	  
 \newmdenv[skipabove=7pt,
 skipbelow=7pt,
